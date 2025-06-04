@@ -50,6 +50,24 @@ body {
     font-weight: 1.1 rem;
 }
 
+.quiz-header {
+    margin-bottom: 2 rem;
+}
+
+#question-text {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+.quiz-info{
+    display: flex;
+    justify-content: space-between;
+    color: #666;
+    margin-bottom: 10px;
+}
+
 #result-screen h1 {
     color: #e86a33;
     margin-bottom: 30px;
