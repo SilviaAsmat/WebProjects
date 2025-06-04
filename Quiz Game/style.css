@@ -35,6 +35,21 @@ body {
     display: block;
 }
 
+/* START SCREEN */
+
+#start-screen h1 {
+    color: #e86a33;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+
+}
+
+#start-screen p {
+    color: #666;
+    margin-bottom: 30px;
+    font-weight: 1.1 rem;
+}
+
 #result-screen h1 {
     color: #e86a33;
     margin-bottom: 30px;
