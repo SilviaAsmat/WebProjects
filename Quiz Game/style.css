@@ -1,0 +1,26 @@
+/* RESPONSIVE DESIGN */
+
+@media (max-width:500px) {
+    /* When we hit 500px and below, implement the below styles */
+
+    .screen {
+        padding: 1rem;
+    }
+
+    #start-screen h1 {
+        font-size: 2rem;
+    }
+
+    #question-text {
+        font-size: 1.3rem;
+    }
+
+    .answer-btn {
+        padding: 12px;
+    }
+
+    button {
+        padding: 12px 25px;
+        font-size: 1rem;
+    }
+}
